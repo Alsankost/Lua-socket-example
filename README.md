@@ -7,7 +7,7 @@
 	<li>Go to project directory: <i>cd path_to_this_project</i></li>
 	<li>Run server: <i>lua ./src/server.lua your_port</i></li>
 	<li>Run client: <i>lua ./src/client.lua server_ip server_port</i></li>
-	<li>Use comman :)</li>
+	<li>Use command :)</li>
 </ul>
 
 <h2><b>Commands:</b></h2>

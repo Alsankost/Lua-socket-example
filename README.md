@@ -12,10 +12,10 @@
 
 <h2><b>Commands:</b></h2>
 <ul>
-	<li><b>set</b> key data - set data in to server RAM for key</li>
-	<li><b>get</b> key - get data the server RAM from key</li>
-	<li><b>del</b> key - delete data the server RAM from key</li>
-	<li><b>list</b> - show all saved data list from server RAM</li>
-	<li><b>stop</b> - shutdown server program</li>
+	<li><b>set</b> key data - set data in to server`s RAM for key</li>
+	<li><b>get</b> key - get data from the server`s RAM by key</li>
+	<li><b>del</b> key - delete data from the server`s RAM by key</li>
+	<li><b>list</b> - show all saved data list from the server`s RAM</li>
+	<li><b>stop</b> - shutdown server`s program</li>
 	<li><b>exit</b> - exit the client</li>
 </ul>

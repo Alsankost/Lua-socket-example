@@ -4,14 +4,14 @@ local socket = require("socket");
 
 local host, port = "*", 54123;
 
+if arg then
+	port = arg[1];
+end;
+
 local s, g = socket.bind(host, port);
 if s == nil then
 	io.write(g..'\n');
 	os.exit(1);
-end;
-
-if arg ~= nil and #arg > 0 then
-	port = arg[1];
 end;
 
 local i, p = s:getsockname()

@@ -2,7 +2,7 @@
 
 <h2><b>Run:</b></h2>
 <ul>
-	<li>Install luarocks</li>
+	<li>Install <a href="https://luarocks.org/">luarocks</a></li>
 	<li>Install Lua-cocket: <i>luarocks lua-socket</i></li>
 	<li>Go to project directory: <i>cd path_to_this_project</i></li>
 	<li>Run server: <i>lua ./src/server.lua your_port</i></li>

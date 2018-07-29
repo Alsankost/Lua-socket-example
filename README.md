@@ -2,12 +2,12 @@
 
 <h2><b>Run:</b></h2>
 <ul>
-	<li>Install <a href="https://luarocks.org/">luarocks</a></li>
-	<li>Install Lua-cocket: <i>luarocks lua-socket</i></li>
-	<li>Go to project directory: <i>cd path_to_this_project</i></li>
-	<li>Run server: <i>lua ./src/server.lua your_port</i></li>
-	<li>Run client: <i>lua ./src/client.lua server_ip server_port</i></li>
-	<li>Use command :)</li>
+	<li>Install <a href="https://luarocks.org/"><b>luarocks</b></a></li>
+	<li>Install <b>Lua-socket</b>: <u>luarocks lua-socket</u></li>
+	<li>Go to project directory: <u>cd path_to_this_project</u></li>
+	<li>Run server: <u>lua ./src/server.lua your_port</u></li>
+	<li>Run client: <u>lua ./src/client.lua server_ip server_port</u></li>
+	<li>Use commands :)</li>
 </ul>
 
 <h2><b>Commands:</b></h2>
